@@ -47,10 +47,10 @@ a:focus {
 .page-header .container {
   padding-top: 40px;
   padding-bottom: 40px;
-  background-image: url("img/raccoons.svg");
+  background-image: url("img/Diamond.png");
   background-repeat: no-repeat;
   background-position: bottom right;
-  background-size: 290px 212px;
+  background-size: 250px 212px;
 }
 
 .page-header a {
